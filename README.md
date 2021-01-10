@@ -1,4 +1,4 @@
-## NFL Big Data Bowl 2020:
+# NFL Big Data Bowl 2020:
 
 The annual sports analytics contest from NFL Football Operations challenges talented members of the analytics community – from college students to professionals – to contribute to the NFL’s continuing evolution in the use of advanced analytics.
 
@@ -7,7 +7,7 @@ As the NFL captures real-time data for every player, on every play, in every sit
 Contestants use traditional and Next Gen Stats to analyze and rethink trends and player performance, and to innovate the way football is played and coached.
 
 
-# Methods of Analysis:
+## Methods of Analysis:
 
 To address the challenges faced in solving the problem, we made use of predictive analytics to infer the effectiveness of an offensive team’s play by classifying the type of pass and determine a successful pass over an incomplete pass.
 The following steps were followed in achieving the end result:
