@@ -1,4 +1,4 @@
-#NFL Big Data Bowl 2020:
+## NFL Big Data Bowl 2020:
 
 The annual sports analytics contest from NFL Football Operations challenges talented members of the analytics community – from college students to professionals – to contribute to the NFL’s continuing evolution in the use of advanced analytics.
 
